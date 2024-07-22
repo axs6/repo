@@ -681,6 +681,23 @@ Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
+Package: com.hk.rootless.cc
+Version: 2.0.5.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Filename: ./debs/CCLess_2.0.5.5_iphoneos-arm64.deb
+Size: 508160
+MD5sum: 5132f7f035858ae4fbe8814441a94a99
+SHA1: 197c02b87d60a229f8827724fbe6a758c455adc1
+SHA256: 40e3f691e9e8bfa2602f13183b5f18b9418d7fe016b5647ec6862abac71f3112
+Section: Tweaks
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/CCLess/js.json
+
 Package: com.hoangdus.speedster
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -1412,6 +1429,25 @@ Size: 306520
 MD5sum: 67065436522ada0af35bda9cf517473c
 SHA1: adbc9cf78bd36a2055b03ddcae0f322db4011601
 SHA256: b6cdb79568eaa24d75dc99ed5b126909bde0745c7745af7cb6876255a2701edf
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm.deb
+Size: 424080
+MD5sum: 6bbfa60f4cd55ae2839a465c48872a09
+SHA1: 4d5fe88ecba031000d8000d8c43ce75ca0697463
+SHA256: e3fd56bb50aefe2d1ebab044c836b37dba02b63df71dd064a29b702c31cc2a2b
 Section: Tweaks
 Description: Pasteboard shortcuts on your keyboard dock!
 Author: udevs
