@@ -309,24 +309,6 @@ Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
 Name: BHTwitter
 
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/左滑返回-Rootless.1.0-6.deb
-Size: 44296
-MD5sum: dda0b55c4b7c9adb28a3f6feb38d6838
-SHA1: 309c0bdf815d5630f14f1893b0500a0e97f56d1c
-SHA256: a3d8c92b00edb06a435215e9ef37924d8ac26c0a7e393ae8f1e8ef0f889b61d6
-Section: Tweaks
-Description: Show lyrics anywhere
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
