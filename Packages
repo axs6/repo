@@ -439,6 +439,25 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.curtin.pkc.rootless
+Version: 0.5-5
+Architecture: iphoneos-arm64
+Maintainer: Curtin <curtinlv@126.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.5-5_iphoneos-arm64.deb
+Size: 519760
+MD5sum: 12a9190b26de65ab09eb9995fcb86895
+SHA1: f832820b54d631918b1e847bdd63364778ab9b5a
+SHA256: 56075b95b770b6f351849a8690fd3f2df34e30c2392acbf34367b8ae7d3ed30b
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@126.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
 Package: com.dao.bhtiktokmod
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -1088,6 +1107,40 @@ Size: 39996
 MD5sum: 8ca10f003a47deb1f6e337745b814907
 SHA1: 5a627b065a36bc0f908894f481bf7aeaaa5518e8
 SHA256: 9d8a218d53c9c2b87a4217ca1075009884ad3a10f2f630062d7633106d4e0206
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Name: Tinge
+
+Package: com.p2kdev.tinge
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2_iphoneos-arm64.deb
+Size: 39400
+MD5sum: b509c8654a279672b905fd0cf2e1a79b
+SHA1: 2ddc014117f62c94bda57d36689680eebac93bf5
+SHA256: e6809e6c03fc9f01d942533a7a4da7bdaf8601275ce5307f443210b42654a02e
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Name: Tinge
+
+Package: com.p2kdev.tinge
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2.1_iphoneos-arm64.deb
+Size: 39470
+MD5sum: 3f023d091d956c59ae0fe66e349100d3
+SHA1: 940f558dcf13e214afde1be7ae7b2d5c98cef631
+SHA256: 6894b5083550b85cdff6c36cd1b3d9e941f0c4ad7129c474f8864902dc0377d2
 Section: Tweaks
 Description: Color your badges with Perfection!
 Author: P2KDev <p2kdev@gmail.com>
