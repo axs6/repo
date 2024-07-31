@@ -98,6 +98,26 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: MisakaHelper
+Version: 2.0-3
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.0-3_iphoneos-arm64_rootless.deb
+Size: 12735972
+MD5sum: 934af61d33405611a17972f391504bb4
+SHA1: 1576f7b5c3fa16be6a78ac5ec33c891c7e22ec94
+SHA256: de75706e2cf75198da42cd1febe695e0ec5d5eab2d46cc2000d014ffff52acc0
+Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
