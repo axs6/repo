@@ -980,24 +980,6 @@ Version: 1.11.0
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/instalauncher2_1.11.0.deb
-Size: 205204
-MD5sum: 2158b52a8f97f368bcf4b3988793e225
-SHA1: caae71e211bf5c61c76168cb94e141ba44f2a4ec
-SHA256: 4415baaacb394dbe0eb994df3f006e080565c0221c824efae78183c555ee7785
-Section: Tweaks
-Description: Launch ANY app instantly
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
-Name: InstaLauncher 2
-
-Package: com.jontelang.instalauncher2
-Version: 1.11.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
-Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
 Conflicts: com.jontelang.instalauncher2.beta
 Filename: ./debs/InstaLauncher 2_1.11.0无根.deb
@@ -1394,11 +1376,11 @@ Version: 2.1-9
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/虚拟视频_2.2-0无根.deb
-Size: 2824590
-MD5sum: 6af71fedded048be7855bd32a8dd91f5
-SHA1: 62807ae422012e42b5b2549d4f4a1a82bba74802
-SHA256: cebda898044c8932ebf36dbca148e8898ec4b973440708e6d55e30a6f5980b0b
+Filename: ./debs/虚拟视频2.1-9无根.deb
+Size: 2825826
+MD5sum: beca1aa91f03f4179910333afc04cab8
+SHA1: 5b8c460e0d8aa9193603cce5cbce61879e411577
+SHA256: cbc2669740e12e646f673503669decc7b50152148ffdf8a98e4d74b2a6702926
 Section: Tweaks
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,新增多端登录设备隐藏等。
 Author: 平凡
@@ -1409,11 +1391,11 @@ Version: 2.1-9
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/虚拟视频2.1-9无根.deb
-Size: 2825826
-MD5sum: beca1aa91f03f4179910333afc04cab8
-SHA1: 5b8c460e0d8aa9193603cce5cbce61879e411577
-SHA256: cbc2669740e12e646f673503669decc7b50152148ffdf8a98e4d74b2a6702926
+Filename: ./debs/虚拟视频_2.2-0无根.deb
+Size: 2824590
+MD5sum: 6af71fedded048be7855bd32a8dd91f5
+SHA1: 62807ae422012e42b5b2549d4f4a1a82bba74802
+SHA256: cebda898044c8932ebf36dbca148e8898ec4b973440708e6d55e30a6f5980b0b
 Section: Tweaks
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,新增多端登录设备隐藏等。
 Author: 平凡

@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "MisakaHelper微信misaka助手，和其它类型微信插件类似，更多群功能!自行体验!可以解决低版本微信不能使用小程序问题!好像也可以抢红包!可以强制关注公众号，比如解决微信净化插件问题!",
+                    "markdown": "微信misaka助手，和其它类型微信插件类似，更多群功能!自行体验!可以解决低版本微信不能使用小程序问题!好像也可以抢红包!可以强制关注公众号，比如解决微信净化插件问题!",
                     "useRawFormat": true
                 },
                 {
@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 07 月 31 日",
+                    "text": "2024 年 08 月 02 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1修复部分用户检测不了授权群问题。\n2.修复ipad端，悬浮球会闪退问题。\n3.修复自动通过好友有概率不回复内容的问题。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.3",
