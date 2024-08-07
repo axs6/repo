@@ -395,6 +395,23 @@ Author: ichitaso
 Name: HideSerialNumber
 Sponsor: Axs
 
+Package: com.Axs.qqtc
+Version: 1.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.qqtc_1.1.1-1_iphoneos-arm64.deb
+Size: 577392
+MD5sum: a9dab2b07ccaeb0ba6065585ca26e777
+SHA1: 472bd91dd64e73a62cb1e4e564c4b70f374a7e11
+SHA256: bd6fe8ae356a251bf5a8e99d5497b5a029c4a3ce8a4129dc538f7e1b5e0180ce
+Section: Axs-Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: Axs
+Name: QQ新版防撤回
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.touchvis
 Version: 1.1.3
 Architecture: iphoneos-arm64
