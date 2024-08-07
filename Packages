@@ -1740,22 +1740,6 @@ Author: 人妖嘉嘉
 Name: 抖音大气层-永久版
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/dyhook/js.json
 
-Package: com.xx.qqhook
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 536
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.qqhook_1.1.0_iphoneos-arm64.deb
-Size: 166674
-MD5sum: b799ae1ab0d00cb2cb110b4dd3818266
-SHA1: 8f2bf9734a4521b7aed6694e933ff82e932f9495
-SHA256: 9557580253210a40970d03e2b1f8b9425e11ccffc7203eddb7204c7c2d15356f
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Version: 1.0.4
 Architecture: iphoneos-arm64
